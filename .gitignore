@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv38/
+venv/
+env/
+
+# Dataset
+Data/
+data/
+dataset/
+datasets/
+
+# ML Models
+Model/
+models/
+*.h5
+*.pkl
+*.pt
+
+# IDE
+.vscode/
+.idea/
